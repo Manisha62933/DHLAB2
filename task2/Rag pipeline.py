@@ -250,7 +250,7 @@ Topic: Extraction of Indian Cultural Elements
 Using RAG
 =================================================
 ===========
-Author Name(s): Devroop Dasgupta
+Author Name(s): Manisha Low 
 Short Description: Names of Indian flora and fauna extracted from
 five historical texts (Tuzuk-i-Jahangiri, Mrigapakshishastra,
 Vrikshayurveda, Ain-i-Akbari, Gita Govinda) using a RAG pipeline:
@@ -259,8 +259,7 @@ extraction with a local LLM (Ollama). Every name was checked to
 appear in the source passage. Counts and sources are in
 results.json.
 Semester: Monsoon Semester 2026
-Affiliation: Department of Computer Science and Engineering,
-Sir M. Visvesvaraya Institute of Technology, Bengaluru
+Affiliation: Student
 =================================================
 ===========
 """
