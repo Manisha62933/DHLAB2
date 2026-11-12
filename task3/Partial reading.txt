@@ -1,0 +1,55 @@
+PARTIAL READING - The Child's Return (Rabindranath Tagore)
+Method: 210 sentences divided into 3 equal parts; random 20% of sentences sampled per part (seed=42).
+Sentences are shown in their original story order.
+======================================================================
+
+PART 1  (70 sentences, 14 sampled)
+----------------------------------------------------------------------
+[1.4] From school he went on to college, and after college he entered the judicial service.
+[1.6] But when a mistress came into the house, Raicharan found two masters instead of one.
+[1.14] He would say to his mistress with a look of awe and mystery: "Your son will be a judge some day.
+[1.15] New wonders came in their turn.
+[1.18] He went out to tell the news to all the world.
+[1.28] From time to time there was a deep thud as the river-banks crumbled.
+[1.29] The unceasing roar of the main current could be heard from far away.
+[1.32] It was cloudy, but cool and bright.
+[1.35] Raicharan, between the shafts, dragged him slowly along till he reached the rice-fields on the banks of the river.
+[1.36] There was no one in the fields and no boat on the stream.
+[1.38] The silent ceremonial of the setting sun was revealed in all its glowing splendour.
+[1.44] He was promoted from a horse into a groom.
+[1.48] And with all sorts of curious noises he pushed the go-cart rapidly away from the tree.
+[1.58] It seemed as though the disobedient wavelets themselves were running away from some greater Raicharan with the laughter of a thousand children.
+
+PART 2  (70 sentences, 14 sampled)
+----------------------------------------------------------------------
+[2.4] She sent men out on all sides to search.
+[2.5] They went with lanterns in their hands and reached at last the banks of the Padma.
+[2.12] She called him aside with piteous entreaty and said: "Raicharan, give me back my baby.
+[2.13] Give me back my child.
+[2.27] Indeed, if it had not been for a widowed sister, who mothered the new baby, it would not have lived long.
+[2.28] But a change gradually came over Raicharan's mind.
+[2.30] This new baby in turn began to crawl about, and cross the doorway with mischief in its face.
+[2.35] It learnt to say Ba-ba and Ma-ma with a baby accent.
+[2.36] When Raicharan heard those familiar sounds the mystery suddenly became clear.
+[2.42] "Ah," he said to himself with amazement, "the mother's heart was right.
+[2.45] He now gave himself over, body and soul, to the new baby and became its devoted attendant.
+[2.46] He began to bring it up as if it were the son of a rich man.
+[2.65] But, in the bottom of their hearts, all the students loved the innocent and tender-hearted old man, and Phailna was very fond of him also.
+[2.69] He would forget things and his mind became dull and stupid.
+
+PART 3  (70 sentences, 14 sampled)
+----------------------------------------------------------------------
+[3.1] The money that Raicharan had brought with him from the sale of his land was exhausted.
+[3.6] Anukul's wife was still broken down with grief.
+[3.7] She had had no other child.
+[3.10] A voice of greeting was heard in the courtyard.
+[3.14] He asked him many questions and offered to take him back into service.
+[3.18] It was I.
+[3.21] What!
+[3.22] Where is he?
+[3.29] Anukul's wife, without a question, took the boy into her lap and was wild with excitement, sometimes laughing, sometimes weeping, touching him, kissing his hair and his forehead, and gazing into his face with hungry, eager eyes.
+[3.36] It would be wiser to believe.
+[3.44] My child will be pleased.
+[3.49] "Master," he cried, "let me stay.
+[3.55] You have done an act of treachery.
+[3.58] Raicharan replied: "It was my fate.

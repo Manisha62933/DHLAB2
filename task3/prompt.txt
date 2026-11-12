@@ -1,0 +1,49 @@
+ROLE:
+You are a computational literary scholar specializing in Marxist Literary Criticism and Subaltern Studies in colonial Bengal.
+
+TASK:
+Analyze the complete narrative text of Rabindranath Tagore's short story "The Child's Return" (1918 English translation) and extract verbatim textual evidence demonstrating class stratification, feudal-colonial domestic servitude, and subaltern self-erasure.
+
+INPUT PRE-PROCESSING INSTRUCTIONS:
+- Analyze only the narrative prose below the "=====STORY STARTS BELOW=====" delimiter.
+- Ignore bibliographic header lines (TITLE, AUTHOR, SOURCE, STATUS, PRE-PROCESSING) and standalone Roman numeral section markers (I, II, III).
+
+EXTRACTION CATEGORIES:
+Extract exactly 4 verbatim quotes (complete sentences or contiguous clauses) for each of the following three analytical categories:
+
+1. "Master-Servant Dynamics":
+   - Definition: Passages illustrating structural power asymmetry, domestic hierarchy, class-based suspicion, authoritarian judgment, and the disposability of the servant's lifelong labor.
+
+2. "Economic Disparity":
+   - Definition: Passages contrasting upper-class material luxury, bourgeois commodities (e.g., gold ornaments, satin attire, education), and institutional privilege against peasant poverty, land liquidation, physical starvation, and financial exhaustion.
+
+3. "Subaltern Sacrifice":
+   - Definition: Passages showing the servant Raicharan surrendering his physical health, familial possessions, paternal identity, or personal agency to serve and elevate the master class.
+
+STRICT CONSTRAINTS:
+- Extract exact, word-for-word strings from the provided corpus; do not paraphrase, summarize, or alter punctuation.
+- Do not include commentary, markdown prose, or explanations outside the requested data structure.
+
+OUTPUT FORMAT:
+Return the output strictly as a valid Python dictionary named `thematic_extractions` formatted as follows:
+
+thematic_extractions = {
+    "Master-Servant Dynamics": [
+        "<verbatim quote 1>",
+        "<verbatim quote 2>",
+        "<verbatim quote 3>",
+        "<verbatim quote 4>"
+    ],
+    "Economic Disparity": [
+        "<verbatim quote 1>",
+        "<verbatim quote 2>",
+        "<verbatim quote 3>",
+        "<verbatim quote 4>"
+    ],
+    "Subaltern Sacrifice": [
+        "<verbatim quote 1>",
+        "<verbatim quote 2>",
+        "<verbatim quote 3>",
+        "<verbatim quote 4>"
+    ]
+}
