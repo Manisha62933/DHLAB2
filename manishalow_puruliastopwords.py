@@ -2,14 +2,14 @@
 ============================================================
 Topic: Indic Language Stop Words for Natural Language Processing
 ============================================================
-Author Name(s): Manisha
+Author Name(s): Manisha Low
 Short Description: This file contains a stop-word list for the
 Bengali language. These words may be used during text
 preprocessing in Natural Language Processing (NLP), for example
 before tokenisation-based tasks such as keyword extraction, topic
 modelling, or text classification.
 Semester: Monsoon Semester 2026
-Affiliation: 
+Affiliation: Student
 Note:
 This list contains commonly used function words (conjunctions,
 pronouns, postpositions, auxiliaries, particles). It is meant as
